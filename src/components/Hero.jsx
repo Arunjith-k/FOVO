@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Make sure the path is correct relative to this component file.
-import heroVideo from '../assets/videos/hero.mp4';
+import heroVideo from '../assets/videos/floating_bag.mp4';
 
 const Hero = () => {
     const positionY = '3%';
